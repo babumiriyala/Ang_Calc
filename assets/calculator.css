@@ -54,7 +54,7 @@
     margin: 0; padding: 10px 0px;
 }
 
-#myCalculator form br{ display: none;}
+#myCalculator form br { display: none;}
 #myCalculator form > div {
     color: #fff;
     width: 33%;
